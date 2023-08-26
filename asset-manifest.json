@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.bda6e8a2.css",
+    "main.js": "/my-app/static/js/main.feb27bcc.js",
+    "static/media/london.jpg": "/my-app/static/media/london.113b27e3f851404fb576.jpg",
+    "static/media/paris.jpg": "/my-app/static/media/paris.d3baab67f39431d5c475.jpg",
+    "static/media/moscow.jpg": "/my-app/static/media/moscow.aa3e08cb2cbf540f1a19.jpg",
+    "static/media/prague.jpg": "/my-app/static/media/prague.395f6aa2003187e4b7dc.jpg",
+    "static/media/rome.jpg": "/my-app/static/media/rome.d09aa12b1292e49e9155.jpg",
+    "static/media/barcelona.jpg": "/my-app/static/media/barcelona.c9ec3e7d2ea9459c83db.jpg",
+    "static/media/berlin.jpg": "/my-app/static/media/berlin.ab93506ed6215b8e713b.jpg",
+    "index.html": "/my-app/index.html",
+    "main.bda6e8a2.css.map": "/my-app/static/css/main.bda6e8a2.css.map",
+    "main.feb27bcc.js.map": "/my-app/static/js/main.feb27bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda6e8a2.css",
+    "static/js/main.feb27bcc.js"
+  ]
+}
