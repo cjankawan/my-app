@@ -78,7 +78,7 @@ body {
     margin: 3% auto;
     font-size: 69px;
     font-weight: bold;
-  }
+    }
   }
   
   @media (max-width: 1199px) {
@@ -90,6 +90,6 @@ body {
     margin: 3% auto;
     font-size: 36px;
     font-weight: bold;
-  }
+    }
   }
 
