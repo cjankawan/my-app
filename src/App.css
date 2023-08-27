@@ -5,13 +5,6 @@ body {
     background-color: #fff;
   }
 
-  .title{
-    width: 85%;
-    margin: 3% auto;
-    font-size: 36px;
-    font-weight: bold;
-  }
-
 .city-grid {
   display: grid; /* -----------> Change the opsition of image to left and change display view <----------- */
   grid-gap: 30px;
@@ -80,11 +73,23 @@ body {
     .city-description {
       font-size: 17px;
     }
+    .title{
+      width: 85%;
+      margin: 3% auto;
+      font-size: 66px;
+      font-weight: bold;
+    }
   }
   
   @media (max-width: 1199px) {
     .city-description {
       font-size: 12px;
+    }
+    .title{
+      width: 85%;
+      margin: 3% auto;
+      font-size: 39px;
+      font-weight: bold;
     }
   }
 
