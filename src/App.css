@@ -74,10 +74,10 @@ body {
       font-size: 17px;
     }
     .title{
-    width: 85%;
-    margin: 3% auto;
-    font-size: 69px;
-    font-weight: bold;
+      width: 85%;
+      margin: 3% auto;
+      font-size: 69px;
+      font-weight: bold;
     }
   }
   
@@ -86,10 +86,10 @@ body {
       font-size: 12px;
     }
     .title{
-    width: 85%;
-    margin: 3% auto;
-    font-size: 36px;
-    font-weight: bold;
+      width: 85%;
+      margin: 3% auto;
+      font-size: 36px;
+      font-weight: bold;
     }
   }
 
